@@ -14,7 +14,7 @@ public class AnagramChecker
         dictionary = new ArrayList<>();
         try
         {
-            Scanner s = new Scanner(new FileReader("C:\\Users\\seand\\IdeaProjects\\CIS311\\Assignments\\Word Suggestion\\src\\words.txt")); //Full path of file required to work for IDE
+            Scanner s = new Scanner(new FileReader("C:\\Users\\Sean\\IdeaProjects\\CIS311\\Assignments\\Word Suggestion\\src\\words.txt")); //Full path of file required to work for IDE
 
             while (s.hasNext())
             {
