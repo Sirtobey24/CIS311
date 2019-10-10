@@ -1,0 +1,16 @@
+hello
+car
+computer
+java
+ruby
+dog
+cat
+windows
+linux
+video
+world
+macintosh
+nvidia
+intel
+sean
+duck

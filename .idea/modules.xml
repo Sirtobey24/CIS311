@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InClass/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/InClass/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Assignments/Assignment1/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Assignments/Assignment3/Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CIS311.iml" filepath="$PROJECT_DIR$/CIS311.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassTest/ClassTest.iml" filepath="$PROJECT_DIR$/ClassTest/ClassTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/CountryList/CountryList.iml" filepath="$PROJECT_DIR$/Assignments/CountryList/CountryList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/NFL/NFL.iml" filepath="$PROJECT_DIR$/Assignments/NFL/NFL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment3/Q1/Q1.iml" filepath="$PROJECT_DIR$/Assignments/Assignment3/Q1/Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment3/Q2/Q2.iml" filepath="$PROJECT_DIR$/Assignments/Assignment3/Q2/Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment3/Q3/Q3.iml" filepath="$PROJECT_DIR$/Assignments/Assignment3/Q3/Q3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClass/Queues/Queues.iml" filepath="$PROJECT_DIR$/InClass/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClass/SingleLinkedLists/SingleLinkedLists.iml" filepath="$PROJECT_DIR$/InClass/SingleLinkedLists/SingleLinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClass/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/InClass/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClass/TowersofHanoi/TowersofHanoi.iml" filepath="$PROJECT_DIR$/InClass/TowersofHanoi/TowersofHanoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Word Suggestion/Word Suggestion.iml" filepath="$PROJECT_DIR$/Assignments/Word Suggestion/Word Suggestion.iml" />
+    </modules>
+  </component>
+</project>
